@@ -32,7 +32,7 @@ namespace Converter
                 }
 
             }
-
+            else new_output = output;
             return new_output;
         }
 
